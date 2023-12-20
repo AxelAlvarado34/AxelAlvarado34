@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on my way to learn more about Web and Mobile Development, Systems Design and Architecture\
 ✍️ &nbsp;In my free time, I dedicate myself to graphic design and continuous learning with courses as hobbies and side activities.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at AxelAlvarado34091@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at axelalvarado34091@gmail.com! I'll try to respond as soon as I can.\
 
 ### 🛠 &nbsp;Tech Stack
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
