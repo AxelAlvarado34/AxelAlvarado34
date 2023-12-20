@@ -42,5 +42,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="AxelAlvarado34091@gmail.com"><img src="https://img.shields.io/badge/AxelAlvarado34091@gmail.com-EA4335?logo=gmail&logoColor=fff&style=for-the-badge"/></a>
 </p>
